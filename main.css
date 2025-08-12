@@ -1,0 +1,6 @@
+#\31-main-footer1 > div:nth-child(1) > footer > div {
+  column-gap: 0px;
+}
+#\31-main-footer1 > div:nth-child(1) > footer > div > div:first-child {
+  width: 400px;
+}
