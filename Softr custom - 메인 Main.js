@@ -1,6 +1,6 @@
 // 메인페이지 Main
 function main() {
-  
+  console.log('메인 외부 실행');
 // 네이버검색 키워드 삽입
 $('head')[0].insertAdjacentHTML('afterbegin', '<meta name="naver-site-verification" content="84658af69ac089b37ea232a7ec43923bb59a3b87" />');
 
@@ -31,3 +31,4 @@ window.addEventListener('block-loaded-1-main-footer1', function () {
 });
 
 }
+
